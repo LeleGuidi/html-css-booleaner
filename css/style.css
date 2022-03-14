@@ -26,3 +26,42 @@ a {
     font-size: 14px;
     color: grey;
 }
+
+.info-foto {
+    font-size: 12px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+ul {
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    background-color: rgb(3, 189, 189);
+    text-align: left;
+}
+
+.riga-azzurra {
+    background-color: lightblue;
+    border-spacing: 0px;
+}
+
+.colonna1 {
+    width: 20%;
+}
+
+.colonna2 {
+    width: 20%;
+}
+
+.colonna3 {
+    width: 60%;
+}
