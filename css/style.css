@@ -2,6 +2,7 @@
     background-color: rgb(9, 149, 214);
     background-image: url(../img/pattern.png);
     height: 170px;
+    width: 100%;
 }
 
 #logo {
@@ -41,6 +42,7 @@ ul {
 
 table {
     border-collapse: collapse;
+    width: 100%;
 }
 
 th {
@@ -68,7 +70,7 @@ th {
 
 h3 {
     color: grey;
-    padding-bottom: 0px;
+    margin-bottom: 0%;
 }
 
 .interessi{
