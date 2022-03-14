@@ -1,0 +1,28 @@
+#contenitore-logo {
+    background-color: rgb(9, 149, 214);
+    background-image: url(../img/pattern.png);
+    height: 170px;
+}
+
+#logo {
+    width: 20%;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.scritto-da {
+    color: grey;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(56, 192, 238);
+}
+
+.data {
+    font-size: 14px;
+    color: grey;
+}
