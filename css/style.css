@@ -12,6 +12,7 @@ body {
 #logo {
     width: 20%;
     margin-top: 105px;
+    /* Il margin-top potevo evitarlo e inserire il padding nella classe del contenitore */
 }
 .margine {
     margin: 8px;
@@ -71,6 +72,8 @@ th {
     width: 20%;
 }
 
+/* colonna1 e colonna2 è una ridondanza, potevo usare solo una classe */
+
 .colonna3 {
     width: 60%;
 }
@@ -86,10 +89,10 @@ h3 {
     background-size: cover;
     background-position: center;
 }
+/* al contenitore .interessi potevo inserire un padding per stanziare il contenuto (titolo) */
 
 #imginteresse1{
     background-image: url(../img/monitor.jpg);
-    
 }
 
 #imginteresse2 {
